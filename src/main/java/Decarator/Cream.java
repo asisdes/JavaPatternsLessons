@@ -15,7 +15,4 @@ public class Cream extends Goodies {
     public String getDesc() {
         return baking.getDesc() + " с кремом";
     }
-
-
-
 }

@@ -22,8 +22,6 @@ public class main {
         System.out.println("Стоимость: " + baking.getPrice());
 
         System.out.println("КОНЕЦ");
-
-
     }
 
 }
